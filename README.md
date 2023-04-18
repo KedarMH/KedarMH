@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kedar_m_h" target="blank"><img align="center" src="https://www.vecteezy.com/png/16716486-twitter-png-icon" alt="kedar_m_h" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/kedarmh19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kedarmh19" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/kedarmh19" target="blank"><img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F8%2F81%2FLinkedIn_icon.svg%2F2048px-LinkedIn_icon.svg.png&tbnid=TUwrfYAbg9Zk_M&vet=12ahUKEwj2ttGDt7P-AhVDleYKHfAXBHAQMygAegUIARDLAQ..i&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3ALinkedIn_icon.svg&docid=kB0lkX3O3TgUeM&w=2048&h=2048&q=linkedin%20logo%20svg&ved=2ahUKEwj2ttGDt7P-AhVDleYKHfAXBHAQMygAegUIARDLAQ" alt="www.linkedin.com/in/kedarmh19" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
