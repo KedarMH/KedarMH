@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kedar_m_h" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kedar_m_h" height="40" width="70" /></a>
-<a href="https://www.linkedin.com/in/kedarmh19/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kedar M H" height="40" width="70" /></a>
+<a href="https://twitter.com/kedar_m_h" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kedar_m_h" height="35" width="75" /></a>
+<a href="https://www.linkedin.com/in/kedarmh19/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kedar M H" height="35" width="75" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
