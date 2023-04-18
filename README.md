@@ -14,7 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kedar_m_h" target="blank"><img align="center" src="https://www.vecteezy.com/png/16716486-twitter-png-icon" alt="kedar_m_h" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/kedarmh19" target="blank"><img align="center" src="https://icons8.com/icon/13930/linkedin" alt="www.linkedin.com/in/kedarmh19" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kedarmh19/" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/114551892/232778124-a90249d4-eefa-41f7-949a-c9fdc9aadb0a.png)
+" alt="www.linkedin.com/in/kedarmh19" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
